@@ -158,21 +158,5 @@ $RECYCLE.BIN/
 # Mac desktop service store files
 .DS_Store
 
-/src/TDS.Core/IconCache
-/src/TDS.Core/Package_Release
-/src/TDS.Master/IconCache
-/src/TDS.Master/Package_Release
-/src/CoreItems/IconCache
-/src/CoreItems/Package_Release
+# Nuget
 /Src/packages
-Src/Sitecore.PathAnalyzer.TreeManagementTests/Sitecore.PathAnalyzer.Sql_Create.sql
-/Src/UI/PageAnalyzer/packages
-Src/Sitecore.PathAnalyzer.TestUtilities/Sitecore.PathAnalyzer.Sql_Create.sql
-/Src/Tests/Sitecore.PathAnalyzer.IntegrationTests/data/indexes
-/Src/Tests/Sitecore.PathAnalyzer.IntegrationTests/temp
-
-#Page Analyzer
-/src/Sitecore.PageAnalyzer/node_modules
-/src/Sitecore.PageAnalyzer/bower_components
-/src/Sitecore.PageAnalyzer/dist
-/src/.vs/config/applicationhost.config
