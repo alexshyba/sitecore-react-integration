@@ -1,0 +1,93 @@
+----item----
+version: 1
+id: {EA58AE3B-5D51-4349-ACF0-A2E687B6A787}
+database: master
+path: /sitecore/layout/Renderings/React/Counter
+parent: {E82A67BB-43CB-4E4B-A114-17A1C6253E8B}
+name: Counter
+master: {C56C5E6F-AF32-43EA-A456-D809D8D4950C}
+template: {1DDE3F02-0BD7-4779-867A-DC578ADF91EA}
+templatekey: Webcontrol
+
+----field----
+field: {1F424EB0-6138-4BC4-93B0-BD45EC6B1CB2}
+name: Namespace
+key: namespace
+content-length: 7
+
+Reactor
+----field----
+field: {B8979E80-7623-4B3A-BFD2-3F3F05883D58}
+name: Tag
+key: tag
+content-length: 12
+
+ReactControl
+----field----
+field: {E2ABDEC6-83A6-4B68-97D1-B3CD79F10A8E}
+name: TagPrefix
+key: tagprefix
+content-length: 5
+
+react
+----field----
+field: {C50B1F5B-26DA-476A-AAC6-9B734975971C}
+name: Assembly
+key: assembly
+content-length: 7
+
+Reactor
+----field----
+field: {A116F3A4-0D3A-4DD9-BD7C-0F37470BE5DC}
+name: Parameters
+key: parameters
+content-length: 12
+
+Name=Counter
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+150
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 75bb889d-1bf6-4d71-a8f2-ef88fc119dd9
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160207T202919Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+75bb889d-1bf6-4d71-a8f2-ef88fc119dd9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160207T213640Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
